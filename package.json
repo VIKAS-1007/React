@@ -1,0 +1,19 @@
+{
+  "name": "protein-aur-react",
+  "version": "1.0.0",
+  "description": "This is React by vikas papa",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/VIKAS-1007/React.git"
+  },
+  "keywords": [],
+  "author": "Vikas Rana",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
